@@ -6,4 +6,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="50" /> <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" width="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" />
 
 ### Stats
-[![](https://github-readme-stats.vercel.app/api?username=zero483&theme=merko&count_private=true&show_icons=true&hide=cobalt)](https://github.com/tibue99)
+[![](https://github-readme-stats.vercel.app/api?username=zero483&theme=merko&count_private=true&show_icons=true&hide=cobalt)](https://github.com/zero483)
